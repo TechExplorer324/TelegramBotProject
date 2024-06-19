@@ -1,0 +1,13 @@
+banks
+NHAI
+LarsenAndToubro
+Hyderabad
+NBCC
+NewDelhi
+Cipla
+DRL
+Mumbai
+BSV
+Infosys
+AI
+Wipro
